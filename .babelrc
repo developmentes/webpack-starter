@@ -1,0 +1,8 @@
+// webpack.config.js
+
+
+{
+    "presets": ["@babel/preset-env","minify"]
+}
+
+
