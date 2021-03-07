@@ -1,6 +1,6 @@
 # Webpack Starter 
 
-este es el proyecto inicial para cear apicaciones utiizado webpack
+este es el proyecto inicial para crear aplicaciones utiizado webpack
 
 
 ### NOTAS : 
